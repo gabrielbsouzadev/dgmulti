@@ -3,7 +3,7 @@
 Uma API Rest mockada, utilizando json-server e JWT.
 
 
-End-points implementados: login,register,gerentes
+End-points implementados: login,register,clientes
 
 ## Instalação
 

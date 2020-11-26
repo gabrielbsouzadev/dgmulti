@@ -1,1 +1,94 @@
-{"usuarios":[{"id":1,"email":"vinicios@alura.com.br","senha":"123456","nome":"Vinicios"},{"id":2,"email":"vinicios@alura.com.br","senha":"123","nome":"vinicios"},{"id":3,"email":"gabrielbsouzadev@gmail.com","senha":"123456","nome":"Vinicius Neves"},{"id":4,"email":"gabriel.souza@dgsolutions.com.br","senha":"123456","nome":"Gabriel Souza"},{"id":5,"email":"catarinasegatti3@gmail.com","senha":"123456","nome":"Catarina Segatti Soares Lobo"},{"id":6,"email":"gabrielbsouza@gmail.com","senha":"123456","nome":"Gabriel Souza"}]}
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "email": "vinicios@alura.com.br",
+            "senha": "123456",
+            "nome": "Vinicios"
+        },
+        {
+            "id": 2,
+            "email": "vinicios@alura.com.br",
+            "senha": "123",
+            "nome": "vinicios"
+        },
+        {
+            "id": 3,
+            "email": "gabrielbsouzadev@gmail.com",
+            "senha": "123456",
+            "nome": "Vinicius Neves"
+        },
+        {
+            "id": 4,
+            "email": "gabriel.souza@dgsolutions.com.br",
+            "senha": "123456",
+            "nome": "Gabriel Souza"
+        },
+        {
+            "id": 5,
+            "email": "gabrielbsouza@gmail.com",
+            "senha": "123456",
+            "nome": "Gabriel Souza"
+        },
+        {
+            "id": 6,
+            "email": "claudio@gmail.com",
+            "senha": "123",
+            "nome": "Claudio"
+        },
+        {
+            "id": 7,
+            "email": "claudio.souza@gmail.com",
+            "senha": "123",
+            "nome": "Claudio Souza"
+        },
+        {
+            "id": 8,
+            "email": "gabriel.souza@gmail.com",
+            "senha": "123456",
+            "nome": "Gabriel Souza"
+        },
+        {
+            "id": 9,
+            "email": "joao.silva@gmail.com",
+            "senha": "123",
+            "nome": "Joao Silva"
+        },
+        {
+            "id": 10,
+            "email": "joao.souza@gmail.com",
+            "senha": "1234",
+            "nome": "João Souza"
+        },
+        {
+            "id": 11,
+            "email": "felipe.silva@gmail.com",
+            "senha": "1234",
+            "nome": "Felipe Silva"
+        },
+        {
+            "id": 12,
+            "email": "rubens.souza@gmail.com",
+            "senha": "123456",
+            "nome": "Rubens Souza"
+        },
+        {
+            "id": 13,
+            "email": "caio.souza@gmail.com",
+            "senha": "123",
+            "nome": "Caio "
+        },
+        {
+            "id": 14,
+            "email": "paulo.souza@gmail.com",
+            "senha": "1234",
+            "nome": "Paulo"
+        },
+        {
+            "id": 15,
+            "email": "allan.souza@gmail.com",
+            "senha": "12345",
+            "nome": "Allan"
+        }
+    ]
+}
